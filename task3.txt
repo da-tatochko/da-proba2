@@ -2,3 +2,6 @@ example 2
 
 
 thrwtrthrty
+
+
+i changed something in the file
